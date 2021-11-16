@@ -92,12 +92,12 @@ Example Playbook
 
 ```
 
-License
--------
+License & COPYRIGHT
+-------------------
 
-BSD
-
-Free to use.
+ © Kaushal Soni
+ 
+ Licence Under the [MIT Licence](LICENSE)
 
 Author Information
 ------------------
